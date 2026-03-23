@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "SJCSMP.aternos.me:24095",
+    "ip": "SJCSMP.aternos.me",
     "port": 24095,
     "version": "",
     "try-creative": false
